@@ -6,4 +6,4 @@
 
 `Refernece taken from` https://git-scm.com/
 
-`GIT-Cheatsheet image`: atlassian.com/git
+`GIT-Cheatsheet image` https://www.atlassian.com/git
