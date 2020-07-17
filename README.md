@@ -5,4 +5,5 @@
 *Not completed yet still working on it*
 
 `Refernece taken from` https://git-scm.com/
-`Refernece taken from` atlassian.com/git
+
+`GIT-Cheatsheet image`: atlassian.com/git
